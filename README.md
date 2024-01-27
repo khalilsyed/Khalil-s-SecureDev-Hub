@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure: SIEM & SOAR Honeypot Project</b>
-  - [Microsoft Azure: SIEM & SOAR](https://github.com/anwarsyed1/MicrosoftAzureSentinental-SIEM-)
+  - [Microsoft Azure: SIEM & SOAR](https://github.com/khalilsyed/MicrosoftAzureSentinal-SIEM-/tree/main)
  
 <h2>🥇 Certifications </h2>
   
