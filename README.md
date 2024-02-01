@@ -3,6 +3,8 @@
 
 - <b>Microsoft Azure: SIEM & SOAR Honeypot Project</b>
   - [Microsoft Azure: SIEM & SOAR](https://github.com/khalilsyed/MicrosoftAzureSentinal-SIEM-/tree/main)
+- <b>PowerShell: File Integrity Monitoring Project</b>
+  - [PowerShell FIM](https://github.com/khalilsyed/PowerShell-FIM-Project/blob/main)
  
 <h2>🥇 Certifications </h2>
   
