@@ -6,7 +6,8 @@
  
 <h2>🥇 Certifications </h2>
   
-- [CompTIA Security+ ](https://www.linkedin.com/in/khalil-syed-025b69168/overlay/1706032048906/single-media-viewer/?profileId=ACoAACgJ5t0BlRA378VGIhtwR_KHyuCN3XuNkH8) 
+- [CompTIA Security+ ](https://www.linkedin.com/in/khalil-syed-025b69168/overlay/1706032048906/single-media-viewer/?profileId=ACoAACgJ5t0BlRA378VGIhtwR_KHyuCN3XuNkH8)
+- [Microsoft Certified: Azure Fundamentals]()
 
 
 <h3> 🤳 Connect with me</h3>
