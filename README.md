@@ -5,6 +5,8 @@
   - [Microsoft Azure: SIEM & SOAR](https://github.com/khalilsyed/MicrosoftAzureSentinal-SIEM-/tree/main)
 - <b>PowerShell: File Integrity Monitoring Project</b>
   - [PowerShell FIM](https://github.com/khalilsyed/PowerShell-FIM-Project/blob/main)
+- <b>Active Directory Lab Using PowerShell</b>
+  - [AD PowerShell Lab](https://github.com/khalilsyed/ActiveDirectory-lab-PowersShell)
  
 <h2>🥇 Certifications </h2>
   
