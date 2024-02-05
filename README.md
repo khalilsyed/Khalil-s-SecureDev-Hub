@@ -7,6 +7,8 @@
   - [PowerShell FIM](https://github.com/khalilsyed/PowerShell-FIM-Project/blob/main)
 - <b>Active Directory Lab Using PowerShell</b>
   - [AD PowerShell Lab](https://github.com/khalilsyed/ActiveDirectory-lab-PowersShell)
+- <b>Vulnerability Management: Nessus Essentials</b>
+  - [Vulnerability Management lab](https://github.com/khalilsyed/Vulnerability_Management-NessusEssentials/tree/main)
  
 <h2>🥇 Certifications </h2>
   
