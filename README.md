@@ -9,7 +9,9 @@
   - [AD PowerShell Lab](https://github.com/khalilsyed/ActiveDirectory-lab-PowersShell)
 - <b>Vulnerability Management: Nessus Essentials</b>
   - [Vulnerability Management lab](https://github.com/khalilsyed/Vulnerability_Management-NessusEssentials/tree/main)
- 
+- <b>Rest API using Node Js and Express</b>
+  - [Rest API home lab](https://github.com/khalilsyed/REST-API-with-NODEJS-and-EXPRESS)
+
 <h2>🥇 Certifications </h2>
   
 - [CompTIA Security+ ](https://www.linkedin.com/in/khalil-syed-025b69168/overlay/1706032048906/single-media-viewer/?profileId=ACoAACgJ5t0BlRA378VGIhtwR_KHyuCN3XuNkH8)
